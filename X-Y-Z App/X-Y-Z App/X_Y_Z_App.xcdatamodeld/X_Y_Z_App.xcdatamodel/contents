@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Function" representedClassName="X-Y-Z" syncable="YES">
+        <attribute name="a1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="a2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="a3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="b1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="b2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="b3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="d1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="d2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="d3" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Function" positionX="-63" positionY="-18" width="128" height="225"/>
+    </elements>
+</model>
